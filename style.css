@@ -33,12 +33,12 @@
     width: 100%;
     height: 437px;
     margin: 0 auto;
-    background-image: url(bg1.png);
+    background-image: url(images/bg1.png);
     position: relative;
 }
 
 .box {
-    background-image: url(overlay.png);
+    background-image: url(images/overlay.png);
     width: 100%;
     height: 231px;
     position: absolute;
@@ -166,7 +166,7 @@ ul li {
 
 .slide {
     display: block;
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -54px 0;
     top: 378px;
     left: 571px;
@@ -179,7 +179,7 @@ ul li {
     width: 100%;
     height: 280px;
     margin: 0 auto;
-    background-image: url(secrot-top.png);
+    background-image: url(images/secrot-top.png);
 }
 
 .big-box {
@@ -214,7 +214,7 @@ ul li {
     display: block;
     width: 30px;
     height: 30px;
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -405px -144px;
     position: absolute;
     left: -44px;
@@ -239,7 +239,7 @@ ul li {
     display: block;
     width: 33px;
     height: 33px;
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -328px -266px;
     position: absolute;
     left: -43px;
@@ -264,7 +264,7 @@ ul li {
     display: block;
     width: 33px;
     height: 33px;
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -484px -6px;
     position: absolute;
     left: -44px;
@@ -362,7 +362,7 @@ a {
 }
 
 .face {
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -523px 51px;
     width: 50px;
     height: 48px;
@@ -404,7 +404,7 @@ a {
 }
 
 .slide_info {
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -56px -19px;
     width: 83px;
     height: 20px;
@@ -442,7 +442,7 @@ a {
 
 .sector1::before {
     content: '';
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -75px -438px;
     width: 48px;
     height: 48px;
@@ -491,7 +491,7 @@ a {
 
 .sector2::before {
     content: '';
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -75px -438px;
     width: 48px;
     height: 48px;
@@ -508,7 +508,7 @@ a {
 
 .sector3::before {
     content: '';
-    background-image: url(source_of_icons.png);
+    background-image: url(images/source_of_icons.png);
     background-position: -75px -438px;
     width: 48px;
     height: 48px;
@@ -541,7 +541,7 @@ a {
 }
 
 .sprite1 {
-    background-image: url(logos1.png);
+    background-image: url(images/logos1.png);
     width: 767px;
     height: 64px;
 }
@@ -652,7 +652,7 @@ a {
 .footer {
     width: 100%;
     height: 67px;
-    background-image: url(footer.png);
+    background-image: url(images/footer.png);
     margin: 0 auto;
 }
 
@@ -1039,7 +1039,7 @@ ol li a:hover {
         width: 100%;
         height: 510px;
         margin: 0 auto;
-        background-image: url(Layer_4_copy_2.png);
+        background-image: url(images/Layer_4_copy_2.png);
     }
 
     .big-box {
@@ -1124,7 +1124,7 @@ ol li a:hover {
     }
 
     .sprite480_1 {
-        background-image: url(sprite1.png);
+        background-image: url(images/sprite1.png);
         width: 368px;
         height: 79px;
         position: absolute;
@@ -1132,7 +1132,7 @@ ol li a:hover {
     }
 
     .sprite480_2 {
-        background-image: url(sprite2.png);
+        background-image: url(images/sprite2.png);
         width: 395px;
         height: 82px;
         position: absolute;
@@ -1163,7 +1163,7 @@ ol li a:hover {
     .footer {
         width: 100%;
         height: 115px;
-        background-image: url(footer.png);
+        background-image: url(images/footer.png);
         margin: 0 auto;
     }
 
@@ -1316,7 +1316,7 @@ ol li a:hover {
 
     .sprite3-1 {
         margin-top: 30px;
-        background-image: url(sprite320_1.png);
+        background-image: url(images/sprite320_1.png);
         width: 217px;
         height: 74px;
         margin-left: 50px;
@@ -1324,7 +1324,7 @@ ol li a:hover {
 
     .sprite3-2 {
         margin-top: 30px;
-        background-image: url(sprite320_2.png);
+        background-image: url(images/sprite320_2.png);
         width: 203px;
         height: 77px;
         margin-left: 51px;
@@ -1332,7 +1332,7 @@ ol li a:hover {
 
     .sprite3-3 {
         margin-top: 30px;
-        background-image: url(sprite320_3.png);
+        background-image: url(images/sprite320_3.png);
         width: 278px;
         height: 80px;
         margin-left: 15px;
